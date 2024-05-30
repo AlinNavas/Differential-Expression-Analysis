@@ -1,4 +1,4 @@
-Gene expression analysis and interpretation for HER2 +ve breast cancer
+#Gene expression analysis and interpretation for HER2 +ve breast cancer
 
 Patient data, RNA-seq data, and copy number alteration (CNA) data are loaded into R.
 The row index of the ERBB2 gene in the CNA data is identified.
